@@ -5,7 +5,7 @@
 
 
 <div align="center" width="100">
-    <img alt="" src="" width="150"/>
+    <img alt="" src="file:///C:/Users/pizar/Downloads/hamster-meme-goofy-hamster.gif" width="150"/>
 
 <h2 align="center">🚀 SOBRE MI</h2>
 
