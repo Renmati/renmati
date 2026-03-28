@@ -5,7 +5,7 @@
 
 
 <div align="center" width="100">
-    <img alt="" src="https://cdn.discordapp.com/avatars/1074170673645223936/5666ecf97960ee8ebd8b57c700186d7f.png?size=1024" width="150"/>
+    <img alt="" src="" width="150"/>
 
 <h2 align="center">🚀 SOBRE MI</h2>
 
